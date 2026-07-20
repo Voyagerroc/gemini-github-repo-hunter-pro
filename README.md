@@ -1,5 +1,7 @@
-[README.md](https://github.com/user-attachments/files/30170220/README.md)
 # 🔍 GitHub Repo Hunter Pro
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A multi-platform AI agent instruction set that turns any capable LLM (Gemini, Claude Code, Codex, Antigravity) into a rigorous GitHub repository research analyst. Instead of returning a generic list of popular repos, it runs every query through an 11-step internal evaluation pipeline — maintenance health, license risk, bus factor, ecosystem strength, production readiness — before presenting a decision-ready shortlist.
 

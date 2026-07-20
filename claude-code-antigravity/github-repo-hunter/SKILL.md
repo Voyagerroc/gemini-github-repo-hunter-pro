@@ -1,4 +1,3 @@
-[SKILL.md](https://github.com/user-attachments/files/30170209/SKILL.md)
 ---
 name: github-repo-hunter
 description: Rigorously research and recommend GitHub repositories for a given topic, framework, or problem — going beyond star count to evaluate maintenance health, license risk, bus factor, production readiness, and ecosystem strength. Use this skill whenever the user asks to "find a repo/library/package for X", "what's the best GitHub project for Y", wants trending or well-maintained open-source options, or needs to compare candidate repositories before adopting one into a project. Also trigger when the user is choosing a dependency for real code (not just browsing) and needs a defensible, evidence-based pick rather than a quick guess.
